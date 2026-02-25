@@ -1,6 +1,6 @@
 # 📈 AI 투자 학습 시뮬레이터
 
-실제 주식 데이터를 기반으로 투자를 연습할 수 있는 웹 시뮬레이터입니다.
+실제 주식 데이터를 기반으로 투자를 연습할 수 있는 웹 시뮬레이터
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (Single File)
